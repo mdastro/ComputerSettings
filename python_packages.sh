@@ -15,6 +15,7 @@ pip install cython --upgrade
 pip install statsmodels --upgrade
 pip install pymc --upgrade
 pip install pystan --upgrade
+pip install scikit-learn --upgrade
 
 # astro packages
 pip install astropy --upgrade
