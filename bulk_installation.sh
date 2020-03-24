@@ -11,6 +11,7 @@ sudo apt-get install r-base
 sudo apt-get install xclip                   # for copying and pasting through terminal
 sudo apt install default-jre 
 sudo apt install openjdk-11-jre-headless
+sudo apt install hplip                       # hp printer/scanner set up
 #sudo apt install openjdk-8-jre-headless
 
 # to do: add installations that require downloading files with wget
