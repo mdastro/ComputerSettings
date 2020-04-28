@@ -16,6 +16,7 @@ pip install statsmodels --upgrade
 pip install pymc --upgrade
 pip install pystan --upgrade
 pip install scikit-learn --upgrade
+pip install arviz --upgrade
 
 # astro packages
 pip install astropy --upgrade
