@@ -10,6 +10,11 @@ pip install matplotlib --upgrade
 pip install seaborn --upgrade
 
 # stats and scientific packages
+pip install cython --upgrade     # requirement for pystan
+pip install patsy --upgrade      # requirement for statsmodels
+pip install joblib --upgrade     # requirement for scikit-learn 
+pip install html5lib --upgrade   # requirement for astroquery
+pip install keyring --upgrade    # requirement for astroquery
 pip install scipy --upgrade
 pip install cython --upgrade
 pip install statsmodels --upgrade
