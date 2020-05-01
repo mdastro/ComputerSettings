@@ -18,6 +18,7 @@ pip install keyring --upgrade    # requirement for astroquery
 pip install scipy --upgrade
 pip install cython --upgrade
 pip install statsmodels --upgrade
+pip install pygam --upgrade    # general additive models in python
 pip install pymc --upgrade
 pip install pystan --upgrade
 pip install scikit-learn --upgrade
@@ -27,3 +28,4 @@ pip install arviz --upgrade
 pip install astropy --upgrade
 pip install pyneb --upgrade
 pip install astroquery --upgrade
+pip install ppxf --upgrade
