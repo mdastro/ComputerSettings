@@ -8,6 +8,7 @@ conda install --yes numpy
 conda install --yes pandas
 conda install --yes matplotlib
 conda install --yes seaborn
+conda install --yes bokeh
 
 # stats and scientific packages
 conda install --yes scipy
