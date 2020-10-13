@@ -3,6 +3,9 @@
 conda install pip
 conda install jupyter
 
+# installing R in conda
+conda install -c r r-irkernel
+
 # general packages
 conda install --yes numpy
 conda install --yes pandas
