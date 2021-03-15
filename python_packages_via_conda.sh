@@ -17,7 +17,7 @@ conda install --yes bokeh
 conda install --yes scipy
 conda install --yes cython
 conda install --yes statsmodels
-conda install --yes pymc
+conda install --yes pymc3
 conda install --yes pystan
 conda install --yes scikit-learn
 conda install --yes arviz
